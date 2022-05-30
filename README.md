@@ -9,7 +9,7 @@ Tenho conhecimento básico de Git e Github, Shell Scripting, Ansible e Terraform
 
 Tenho conhecimento em Redes de Computadores, já tendo estudado sobre protocolos de redes MPLS, OSPF, RIP, EIGRP. Estudei usando o Packed Tracer e EVE-NG usando imagens Cisco. Como meu foco atual é cloud não sei se voltaria a estudar redes apesar de gostar da área são coisas distintas.
 
-E por fim tenho um conhecimento em Docker na qual estudei e achei deveras interessante, pretendo dar uma aprofundada em Kubernetes também e outras ferramentas voltadas para o DevOps.
+E por fim tenho um conhecimento em Docker na qual estudei e achei deveras interessante, pretendo dar uma aprofundada também em Kubernetes e outras ferramentas voltadas para o DevOps.
 
 Por enquanto é isso peoples.
 
